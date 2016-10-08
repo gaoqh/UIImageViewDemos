@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D4491F601DA8976800ABEBED /* UIAlertViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4491F5F1DA8976800ABEBED /* UIAlertViewExtensions.swift */; };
 		D47BC9491D9B666700D66040 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47BC9481D9B666700D66040 /* AppDelegate.swift */; };
 		D47BC94B1D9B666700D66040 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47BC94A1D9B666700D66040 /* ViewController.swift */; };
 		D47BC94E1D9B666700D66040 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D47BC94C1D9B666700D66040 /* Main.storyboard */; };
@@ -90,6 +91,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D4491F5F1DA8976800ABEBED /* UIAlertViewExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIAlertViewExtensions.swift; sourceTree = "<group>"; };
 		D47BC9451D9B666700D66040 /* UIImageViewDemos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIImageViewDemos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D47BC9481D9B666700D66040 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D47BC94A1D9B666700D66040 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 		D47BC93C1D9B666700D66040 = {
 			isa = PBXGroup;
 			children = (
+				D4491F5F1DA8976800ABEBED /* UIAlertViewExtensions.swift */,
 				D4FFDCA71D9BBD1300738D17 /* MobileCoreServices.framework */,
 				D4FFDCA51D9BBD0800738D17 /* ImageIO.framework */,
 				D47BC9471D9B666700D66040 /* UIImageViewDemos */,
@@ -509,6 +512,7 @@
 				D47BC94B1D9B666700D66040 /* ViewController.swift in Sources */,
 				D47BC97E1D9B735B00D66040 /* TestViewController.swift in Sources */,
 				D47BC9491D9B666700D66040 /* AppDelegate.swift in Sources */,
+				D4491F601DA8976800ABEBED /* UIAlertViewExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

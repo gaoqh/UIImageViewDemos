@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     //MARK: - 属性
     fileprivate let MAIN_CELL_ID = "main_cell_id"
-    fileprivate lazy var cellTitles: NSMutableArray = NSMutableArray(array: ["jpg和png转化", "gif图片分解", "gif动画展示", "gif图片合成", "webp格式"])
+    fileprivate lazy var cellTitles: NSMutableArray = NSMutableArray(array: ["jpg和png转化", "gif图片分解", "gif动画展示", "gif图片合成", "图片旋转"])
     fileprivate var tableView: UITableView!
     
     override func viewDidLoad() {
